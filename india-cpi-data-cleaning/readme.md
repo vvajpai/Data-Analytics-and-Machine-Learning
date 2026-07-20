@@ -5,7 +5,6 @@ handling missing values, disguised zeros, and structural gaps.
 
 ## Dataset
 - ~292k rows, monthly CPI by state × commodity group × sector (2014–2025).
-- Source: <link/attribution>
 
 ## Problem
 - `cpi` & `inflation_rate` had ~1% missing values...
